@@ -1,14 +1,12 @@
-# [Your Project Title]
+# Pokémon-Themed Game of Life
 
 ## Project Description
 
-[Provide a brief overview of your project, 2-3 sentences]
+This project is a modern reimagining of John Conway’s 1970 “Game of Life,” integrated with the Pokémon universe. 
 
 ## Main Idea
 
-Project Description: Pokémon-Themed Game of Life
-
-This project is a modern reimagining of John Conway’s 1970 “Game of Life,” integrated with the Pokémon universe. Using Python with Flask for the backend and React with Next.js for the frontend, the game will be accessible through a web browser. Instead of the traditional Game of Life’s random cells, each cell in this version will represent a unique Pokémon, using data from the official Pokémon API.
+Using Python with Flask for the backend and React with Next.js for the frontend, the game will be accessible through a web browser. Instead of the traditional Game of Life’s random cells, each cell in this version will represent a unique Pokémon, using data from the official Pokémon API.
 
 Key Features:
 
